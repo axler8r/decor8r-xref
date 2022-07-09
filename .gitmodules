@@ -1,0 +1,27 @@
+[submodule "references/powerline"]
+	path = references/powerline
+	url = https://github.com/powerline/powerline.git
+[submodule "references/oh-my-posh3"]
+	path = references/oh-my-posh3
+	url = https://github.com/JanDeDobbeleer/oh-my-posh.git
+[submodule "references/oh-my-posh2"]
+	path = references/oh-my-posh2
+	url = https://github.com/JanDeDobbeleer/oh-my-posh2.git
+[submodule "references/oh-my-zsh"]
+	path = references/oh-my-zsh
+	url = https://github.com/ohmyzsh/ohmyzsh.git
+[submodule "references/oh-my-fish"]
+	path = references/oh-my-fish
+	url = https://github.com/oh-my-fish/oh-my-fish.git
+[submodule "references/oh-my-bash"]
+	path = references/oh-my-bash
+	url = https://github.com/ohmybash/oh-my-bash.git
+[submodule "references/powerline-go"]
+	path = references/powerline-go
+	url = https://github.com/justjanne/powerline-go.git
+[submodule "references/posh-git"]
+	path = references/posh-git
+	url = https://github.com/dahlbyk/posh-git.git
+[submodule "references/starship"]
+	path = references/starship
+	url = https://github.com/starship/starship.git
